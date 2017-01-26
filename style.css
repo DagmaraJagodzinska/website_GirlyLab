@@ -102,7 +102,7 @@
 	margin-top: -24px;
 	max-width: 250px;
 }
-.about p, .about-do p, .work p {
+.about p, .about-do p {
 	padding: 40px 80px 0 80px;
 }
 .sec-about .img-custom{
@@ -133,6 +133,21 @@
 	margin-top: 50px;
 	background-image: linear-gradient(rgba(1, 74, 115, 0.8),rgba(1, 74, 115, 0.8)),url(https://static.pexels.com/photos/296878/pexels-photo-296878.jpeg);
 	background-size: cover;
+}
+.work .work-icons {
+	max-height: 110px;
+	padding-top: 30px;
+}
+.work h3 {
+	text-transform: uppercase;
+	color: #1578b0;
+	letter-spacing: 0.1em;
+}
+.work {
+	padding-bottom: 40px;
+}
+.work p {
+	padding: 20px 80px 0 80px;
 }
 /*.about-do h1 {
 	text-transform: uppercase;
